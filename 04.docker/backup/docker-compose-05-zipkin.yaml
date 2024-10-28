@@ -16,7 +16,7 @@ services:
       MANAGEMENT.ZIPKIN.TRACING.ENDPOINT: http://zipkin-server:9411/api/v2/spans
 
   currency-conversion:
-    image: in28min/mmv3-currency-conversion-service:0.0.1-SNAPSHOT
+    image: in28min/mmv3-currency-conversion-service:0.0.12-SNAPSHOT
     mem_limit: 700m
     ports:
       - "8100:8100"
