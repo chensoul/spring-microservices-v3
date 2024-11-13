@@ -34,7 +34,7 @@
     "grunt-contrib-uglify": "~0.11.0",
     "grunt-contrib-watch": "~1.1.0",
     "grunt-sass": "~3.1.0",
-    "grunt-retire": "~0.3.10",
+    "grunt-retire": "~1.0.0",
     "grunt-zip": "~1.0.0",
     "mustache": "~2.3.0",
     "node-sass": "~3.13.0",
